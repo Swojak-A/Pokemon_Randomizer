@@ -1,0 +1,2032 @@
+{
+  "1": {
+    "id": 1,
+    "name": "bulbasaur",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "2": {
+    "id": 2,
+    "name": "ivysaur",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "3": {
+    "id": 3,
+    "name": "venusaur",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "4": {
+    "id": 4,
+    "name": "charmander",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "5": {
+    "id": 5,
+    "name": "charmeleon",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "6": {
+    "id": 6,
+    "name": "charizard",
+    "all_types": [
+      "fire",
+      "flying"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "7": {
+    "id": 7,
+    "name": "squirtle",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "8": {
+    "id": 8,
+    "name": "wartortle",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "9": {
+    "id": 9,
+    "name": "blastoise",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "10": {
+    "id": 10,
+    "name": "caterpie",
+    "all_types": [
+      "bug"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "11": {
+    "id": 11,
+    "name": "metapod",
+    "all_types": [
+      "bug"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "12": {
+    "id": 12,
+    "name": "butterfree",
+    "all_types": [
+      "bug",
+      "flying"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "13": {
+    "id": 13,
+    "name": "weedle",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "14": {
+    "id": 14,
+    "name": "kakuna",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "15": {
+    "id": 15,
+    "name": "beedrill",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "16": {
+    "id": 16,
+    "name": "pidgey",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "17": {
+    "id": 17,
+    "name": "pidgeotto",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "18": {
+    "id": 18,
+    "name": "pidgeot",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "19": {
+    "id": 19,
+    "name": "rattata",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "20": {
+    "id": 20,
+    "name": "raticate",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "21": {
+    "id": 21,
+    "name": "spearow",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "22": {
+    "id": 22,
+    "name": "fearow",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "23": {
+    "id": 23,
+    "name": "ekans",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "24": {
+    "id": 24,
+    "name": "arbok",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "25": {
+    "id": 25,
+    "name": "pikachu",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "26": {
+    "id": 26,
+    "name": "raichu",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "27": {
+    "id": 27,
+    "name": "sandshrew",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "28": {
+    "id": 28,
+    "name": "sandslash",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "29": {
+    "id": 29,
+    "name": "nidoran-f",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "30": {
+    "id": 30,
+    "name": "nidorina",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "31": {
+    "id": 31,
+    "name": "nidoqueen",
+    "all_types": [
+      "poison",
+      "ground"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "32": {
+    "id": 32,
+    "name": "nidoran-m",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "33": {
+    "id": 33,
+    "name": "nidorino",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "34": {
+    "id": 34,
+    "name": "nidoking",
+    "all_types": [
+      "poison",
+      "ground"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "35": {
+    "id": 35,
+    "name": "clefairy",
+    "all_types": [
+      "fairy"
+    ],
+    "main_type": "fairy",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "36": {
+    "id": 36,
+    "name": "clefable",
+    "all_types": [
+      "fairy"
+    ],
+    "main_type": "fairy",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "37": {
+    "id": 37,
+    "name": "vulpix",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "38": {
+    "id": 38,
+    "name": "ninetales",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "39": {
+    "id": 39,
+    "name": "jigglypuff",
+    "all_types": [
+      "normal",
+      "fairy"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "40": {
+    "id": 40,
+    "name": "wigglytuff",
+    "all_types": [
+      "normal",
+      "fairy"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "41": {
+    "id": 41,
+    "name": "zubat",
+    "all_types": [
+      "poison",
+      "flying"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "42": {
+    "id": 42,
+    "name": "golbat",
+    "all_types": [
+      "poison",
+      "flying"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "43": {
+    "id": 43,
+    "name": "oddish",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "44": {
+    "id": 44,
+    "name": "gloom",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "45": {
+    "id": 45,
+    "name": "vileplume",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "46": {
+    "id": 46,
+    "name": "paras",
+    "all_types": [
+      "bug",
+      "grass"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "47": {
+    "id": 47,
+    "name": "parasect",
+    "all_types": [
+      "bug",
+      "grass"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "48": {
+    "id": 48,
+    "name": "venonat",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "49": {
+    "id": 49,
+    "name": "venomoth",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "50": {
+    "id": 50,
+    "name": "diglett",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "51": {
+    "id": 51,
+    "name": "dugtrio",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "52": {
+    "id": 52,
+    "name": "meowth",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "53": {
+    "id": 53,
+    "name": "persian",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "54": {
+    "id": 54,
+    "name": "psyduck",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "55": {
+    "id": 55,
+    "name": "golduck",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "56": {
+    "id": 56,
+    "name": "mankey",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "57": {
+    "id": 57,
+    "name": "primeape",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "58": {
+    "id": 58,
+    "name": "growlithe",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "59": {
+    "id": 59,
+    "name": "arcanine",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "60": {
+    "id": 60,
+    "name": "poliwag",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "61": {
+    "id": 61,
+    "name": "poliwhirl",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "62": {
+    "id": 62,
+    "name": "poliwrath",
+    "all_types": [
+      "water",
+      "fighting"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "63": {
+    "id": 63,
+    "name": "abra",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "64": {
+    "id": 64,
+    "name": "kadabra",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "65": {
+    "id": 65,
+    "name": "alakazam",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "66": {
+    "id": 66,
+    "name": "machop",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "67": {
+    "id": 67,
+    "name": "machoke",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "68": {
+    "id": 68,
+    "name": "machamp",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "69": {
+    "id": 69,
+    "name": "bellsprout",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "70": {
+    "id": 70,
+    "name": "weepinbell",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "71": {
+    "id": 71,
+    "name": "victreebel",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "72": {
+    "id": 72,
+    "name": "tentacool",
+    "all_types": [
+      "water",
+      "poison"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "73": {
+    "id": 73,
+    "name": "tentacruel",
+    "all_types": [
+      "water",
+      "poison"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "74": {
+    "id": 74,
+    "name": "geodude",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "75": {
+    "id": 75,
+    "name": "graveler",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "76": {
+    "id": 76,
+    "name": "golem",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "77": {
+    "id": 77,
+    "name": "ponyta",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "78": {
+    "id": 78,
+    "name": "rapidash",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "79": {
+    "id": 79,
+    "name": "slowpoke",
+    "all_types": [
+      "water",
+      "psychic"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "80": {
+    "id": 80,
+    "name": "slowbro",
+    "all_types": [
+      "water",
+      "psychic"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "81": {
+    "id": 81,
+    "name": "magnemite",
+    "all_types": [
+      "electric",
+      "steel"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "82": {
+    "id": 82,
+    "name": "magneton",
+    "all_types": [
+      "electric",
+      "steel"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "83": {
+    "id": 83,
+    "name": "farfetchd",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "84": {
+    "id": 84,
+    "name": "doduo",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "85": {
+    "id": 85,
+    "name": "dodrio",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "86": {
+    "id": 86,
+    "name": "seel",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "87": {
+    "id": 87,
+    "name": "dewgong",
+    "all_types": [
+      "water",
+      "ice"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "88": {
+    "id": 88,
+    "name": "grimer",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "89": {
+    "id": 89,
+    "name": "muk",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "90": {
+    "id": 90,
+    "name": "shellder",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "91": {
+    "id": 91,
+    "name": "cloyster",
+    "all_types": [
+      "water",
+      "ice"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "92": {
+    "id": 92,
+    "name": "gastly",
+    "all_types": [
+      "ghost",
+      "poison"
+    ],
+    "main_type": "ghost",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "93": {
+    "id": 93,
+    "name": "haunter",
+    "all_types": [
+      "ghost",
+      "poison"
+    ],
+    "main_type": "ghost",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "94": {
+    "id": 94,
+    "name": "gengar",
+    "all_types": [
+      "ghost",
+      "poison"
+    ],
+    "main_type": "ghost",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "95": {
+    "id": 95,
+    "name": "onix",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "96": {
+    "id": 96,
+    "name": "drowzee",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "97": {
+    "id": 97,
+    "name": "hypno",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "98": {
+    "id": 98,
+    "name": "krabby",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "99": {
+    "id": 99,
+    "name": "kingler",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "100": {
+    "id": 100,
+    "name": "voltorb",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "101": {
+    "id": 101,
+    "name": "electrode",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "102": {
+    "id": 102,
+    "name": "exeggcute",
+    "all_types": [
+      "grass",
+      "psychic"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "103": {
+    "id": 103,
+    "name": "exeggutor",
+    "all_types": [
+      "grass",
+      "psychic"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "104": {
+    "id": 104,
+    "name": "cubone",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "105": {
+    "id": 105,
+    "name": "marowak",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "106": {
+    "id": 106,
+    "name": "hitmonlee",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "107": {
+    "id": 107,
+    "name": "hitmonchan",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "108": {
+    "id": 108,
+    "name": "lickitung",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "109": {
+    "id": 109,
+    "name": "koffing",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "110": {
+    "id": 110,
+    "name": "weezing",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "111": {
+    "id": 111,
+    "name": "rhyhorn",
+    "all_types": [
+      "ground",
+      "rock"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "112": {
+    "id": 112,
+    "name": "rhydon",
+    "all_types": [
+      "ground",
+      "rock"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "113": {
+    "id": 113,
+    "name": "chansey",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "114": {
+    "id": 114,
+    "name": "tangela",
+    "all_types": [
+      "grass"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "115": {
+    "id": 115,
+    "name": "kangaskhan",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "116": {
+    "id": 116,
+    "name": "horsea",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "117": {
+    "id": 117,
+    "name": "seadra",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "118": {
+    "id": 118,
+    "name": "goldeen",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "119": {
+    "id": 119,
+    "name": "seaking",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "120": {
+    "id": 120,
+    "name": "staryu",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "121": {
+    "id": 121,
+    "name": "starmie",
+    "all_types": [
+      "water",
+      "psychic"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "122": {
+    "id": 122,
+    "name": "mr-mime",
+    "all_types": [
+      "psychic",
+      "fairy"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "123": {
+    "id": 123,
+    "name": "scyther",
+    "all_types": [
+      "bug",
+      "flying"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "124": {
+    "id": 124,
+    "name": "jynx",
+    "all_types": [
+      "ice",
+      "psychic"
+    ],
+    "main_type": "ice",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "125": {
+    "id": 125,
+    "name": "electabuzz",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "126": {
+    "id": 126,
+    "name": "magmar",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "127": {
+    "id": 127,
+    "name": "pinsir",
+    "all_types": [
+      "bug"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "128": {
+    "id": 128,
+    "name": "tauros",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "129": {
+    "id": 129,
+    "name": "magikarp",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "130": {
+    "id": 130,
+    "name": "gyarados",
+    "all_types": [
+      "water",
+      "flying"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "131": {
+    "id": 131,
+    "name": "lapras",
+    "all_types": [
+      "water",
+      "ice"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "132": {
+    "id": 132,
+    "name": "ditto",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "133": {
+    "id": 133,
+    "name": "eevee",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "134": {
+    "id": 134,
+    "name": "vaporeon",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "135": {
+    "id": 135,
+    "name": "jolteon",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "136": {
+    "id": 136,
+    "name": "flareon",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "137": {
+    "id": 137,
+    "name": "porygon",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": null
+  },
+  "138": {
+    "id": 138,
+    "name": "omanyte",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "139": {
+    "id": 139,
+    "name": "omastar",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "140": {
+    "id": 140,
+    "name": "kabuto",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "141": {
+    "id": 141,
+    "name": "kabutops",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "142": {
+    "id": 142,
+    "name": "aerodactyl",
+    "all_types": [
+      "rock",
+      "flying"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "143": {
+    "id": 143,
+    "name": "snorlax",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "144": {
+    "id": 144,
+    "name": "articuno",
+    "all_types": [
+      "ice",
+      "flying"
+    ],
+    "main_type": "ice",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "145": {
+    "id": 145,
+    "name": "zapdos",
+    "all_types": [
+      "electric",
+      "flying"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "146": {
+    "id": 146,
+    "name": "moltres",
+    "all_types": [
+      "fire",
+      "flying"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "147": {
+    "id": 147,
+    "name": "dratini",
+    "all_types": [
+      "dragon"
+    ],
+    "main_type": "dragon",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "148": {
+    "id": 148,
+    "name": "dragonair",
+    "all_types": [
+      "dragon"
+    ],
+    "main_type": "dragon",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "149": {
+    "id": 149,
+    "name": "dragonite",
+    "all_types": [
+      "dragon",
+      "flying"
+    ],
+    "main_type": "dragon",
+    "evolution": true,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "150": {
+    "id": 150,
+    "name": "mewtwo",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  },
+  "151": {
+    "id": 151,
+    "name": "mew",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null
+  }
+}

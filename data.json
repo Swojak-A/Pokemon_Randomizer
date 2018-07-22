@@ -1,0 +1,2183 @@
+{
+  "1": {
+    "id": 1,
+    "name": "bulbasaur",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 3,
+    "cheat_code": "0101edd0"
+  },
+  "2": {
+    "id": 2,
+    "name": "ivysaur",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0102edd0"
+  },
+  "3": {
+    "id": 3,
+    "name": "venusaur",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0103edd0"
+  },
+  "4": {
+    "id": 4,
+    "name": "charmander",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 3,
+    "cheat_code": "0104edd0"
+  },
+  "5": {
+    "id": 5,
+    "name": "charmeleon",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0105edd0"
+  },
+  "6": {
+    "id": 6,
+    "name": "charizard",
+    "all_types": [
+      "fire",
+      "flying"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0106edd0"
+  },
+  "7": {
+    "id": 7,
+    "name": "squirtle",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 3,
+    "cheat_code": "0107edd0"
+  },
+  "8": {
+    "id": 8,
+    "name": "wartortle",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0108edd0"
+  },
+  "9": {
+    "id": 9,
+    "name": "blastoise",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0109edd0"
+  },
+  "10": {
+    "id": 10,
+    "name": "caterpie",
+    "all_types": [
+      "bug"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "010aedd0"
+  },
+  "11": {
+    "id": 11,
+    "name": "metapod",
+    "all_types": [
+      "bug"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "010bedd0"
+  },
+  "12": {
+    "id": 12,
+    "name": "butterfree",
+    "all_types": [
+      "bug",
+      "flying"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "010cedd0"
+  },
+  "13": {
+    "id": 13,
+    "name": "weedle",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "010dedd0"
+  },
+  "14": {
+    "id": 14,
+    "name": "kakuna",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "010eedd0"
+  },
+  "15": {
+    "id": 15,
+    "name": "beedrill",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "010fedd0"
+  },
+  "16": {
+    "id": 16,
+    "name": "pidgey",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0110edd0"
+  },
+  "17": {
+    "id": 17,
+    "name": "pidgeotto",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0111edd0"
+  },
+  "18": {
+    "id": 18,
+    "name": "pidgeot",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0112edd0"
+  },
+  "19": {
+    "id": 19,
+    "name": "rattata",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0113edd0"
+  },
+  "20": {
+    "id": 20,
+    "name": "raticate",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0114edd0"
+  },
+  "21": {
+    "id": 21,
+    "name": "spearow",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0115edd0"
+  },
+  "22": {
+    "id": 22,
+    "name": "fearow",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0116edd0"
+  },
+  "23": {
+    "id": 23,
+    "name": "ekans",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0117edd0"
+  },
+  "24": {
+    "id": 24,
+    "name": "arbok",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0118edd0"
+  },
+  "25": {
+    "id": 25,
+    "name": "pikachu",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "0119edd0"
+  },
+  "26": {
+    "id": 26,
+    "name": "raichu",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "011aedd0"
+  },
+  "27": {
+    "id": 27,
+    "name": "sandshrew",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "011bedd0"
+  },
+  "28": {
+    "id": 28,
+    "name": "sandslash",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "011cedd0"
+  },
+  "29": {
+    "id": 29,
+    "name": "nidoran-f",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "011dedd0"
+  },
+  "30": {
+    "id": 30,
+    "name": "nidorina",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "011eedd0"
+  },
+  "31": {
+    "id": 31,
+    "name": "nidoqueen",
+    "all_types": [
+      "poison",
+      "ground"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "011fedd0"
+  },
+  "32": {
+    "id": 32,
+    "name": "nidoran-m",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "0120edd0"
+  },
+  "33": {
+    "id": 33,
+    "name": "nidorino",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0121edd0"
+  },
+  "34": {
+    "id": 34,
+    "name": "nidoking",
+    "all_types": [
+      "poison",
+      "ground"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0122edd0"
+  },
+  "35": {
+    "id": 35,
+    "name": "clefairy",
+    "all_types": [
+      "fairy"
+    ],
+    "main_type": "fairy",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "0123edd0"
+  },
+  "36": {
+    "id": 36,
+    "name": "clefable",
+    "all_types": [
+      "fairy"
+    ],
+    "main_type": "fairy",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0124edd0"
+  },
+  "37": {
+    "id": 37,
+    "name": "vulpix",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "0125edd0"
+  },
+  "38": {
+    "id": 38,
+    "name": "ninetales",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0126edd0"
+  },
+  "39": {
+    "id": 39,
+    "name": "jigglypuff",
+    "all_types": [
+      "normal",
+      "fairy"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0127edd0"
+  },
+  "40": {
+    "id": 40,
+    "name": "wigglytuff",
+    "all_types": [
+      "normal",
+      "fairy"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0128edd0"
+  },
+  "41": {
+    "id": 41,
+    "name": "zubat",
+    "all_types": [
+      "poison",
+      "flying"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0129edd0"
+  },
+  "42": {
+    "id": 42,
+    "name": "golbat",
+    "all_types": [
+      "poison",
+      "flying"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "012aedd0"
+  },
+  "43": {
+    "id": 43,
+    "name": "oddish",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "012bedd0"
+  },
+  "44": {
+    "id": 44,
+    "name": "gloom",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "012cedd0"
+  },
+  "45": {
+    "id": 45,
+    "name": "vileplume",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "012dedd0"
+  },
+  "46": {
+    "id": 46,
+    "name": "paras",
+    "all_types": [
+      "bug",
+      "grass"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "012eedd0"
+  },
+  "47": {
+    "id": 47,
+    "name": "parasect",
+    "all_types": [
+      "bug",
+      "grass"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "012fedd0"
+  },
+  "48": {
+    "id": 48,
+    "name": "venonat",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0130edd0"
+  },
+  "49": {
+    "id": 49,
+    "name": "venomoth",
+    "all_types": [
+      "bug",
+      "poison"
+    ],
+    "main_type": "bug",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0131edd0"
+  },
+  "50": {
+    "id": 50,
+    "name": "diglett",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0132edd0"
+  },
+  "51": {
+    "id": 51,
+    "name": "dugtrio",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0133edd0"
+  },
+  "52": {
+    "id": 52,
+    "name": "meowth",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0134edd0"
+  },
+  "53": {
+    "id": 53,
+    "name": "persian",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0135edd0"
+  },
+  "54": {
+    "id": 54,
+    "name": "psyduck",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0136edd0"
+  },
+  "55": {
+    "id": 55,
+    "name": "golduck",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0137edd0"
+  },
+  "56": {
+    "id": 56,
+    "name": "mankey",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0138edd0"
+  },
+  "57": {
+    "id": 57,
+    "name": "primeape",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0139edd0"
+  },
+  "58": {
+    "id": 58,
+    "name": "growlithe",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "013aedd0"
+  },
+  "59": {
+    "id": 59,
+    "name": "arcanine",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "013bedd0"
+  },
+  "60": {
+    "id": 60,
+    "name": "poliwag",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "013cedd0"
+  },
+  "61": {
+    "id": 61,
+    "name": "poliwhirl",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "013dedd0"
+  },
+  "62": {
+    "id": 62,
+    "name": "poliwrath",
+    "all_types": [
+      "water",
+      "fighting"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "013eedd0"
+  },
+  "63": {
+    "id": 63,
+    "name": "abra",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "013fedd0"
+  },
+  "64": {
+    "id": 64,
+    "name": "kadabra",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0140edd0"
+  },
+  "65": {
+    "id": 65,
+    "name": "alakazam",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0141edd0"
+  },
+  "66": {
+    "id": 66,
+    "name": "machop",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "0142edd0"
+  },
+  "67": {
+    "id": 67,
+    "name": "machoke",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0143edd0"
+  },
+  "68": {
+    "id": 68,
+    "name": "machamp",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0144edd0"
+  },
+  "69": {
+    "id": 69,
+    "name": "bellsprout",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0145edd0"
+  },
+  "70": {
+    "id": 70,
+    "name": "weepinbell",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0146edd0"
+  },
+  "71": {
+    "id": 71,
+    "name": "victreebel",
+    "all_types": [
+      "grass",
+      "poison"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0147edd0"
+  },
+  "72": {
+    "id": 72,
+    "name": "tentacool",
+    "all_types": [
+      "water",
+      "poison"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0148edd0"
+  },
+  "73": {
+    "id": 73,
+    "name": "tentacruel",
+    "all_types": [
+      "water",
+      "poison"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0149edd0"
+  },
+  "74": {
+    "id": 74,
+    "name": "geodude",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "014aedd0"
+  },
+  "75": {
+    "id": 75,
+    "name": "graveler",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "014bedd0"
+  },
+  "76": {
+    "id": 76,
+    "name": "golem",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "014cedd0"
+  },
+  "77": {
+    "id": 77,
+    "name": "ponyta",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "014dedd0"
+  },
+  "78": {
+    "id": 78,
+    "name": "rapidash",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "014eedd0"
+  },
+  "79": {
+    "id": 79,
+    "name": "slowpoke",
+    "all_types": [
+      "water",
+      "psychic"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "014fedd0"
+  },
+  "80": {
+    "id": 80,
+    "name": "slowbro",
+    "all_types": [
+      "water",
+      "psychic"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0150edd0"
+  },
+  "81": {
+    "id": 81,
+    "name": "magnemite",
+    "all_types": [
+      "electric",
+      "steel"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0151edd0"
+  },
+  "82": {
+    "id": 82,
+    "name": "magneton",
+    "all_types": [
+      "electric",
+      "steel"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0152edd0"
+  },
+  "83": {
+    "id": 83,
+    "name": "farfetchd",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0153edd0"
+  },
+  "84": {
+    "id": 84,
+    "name": "doduo",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0154edd0"
+  },
+  "85": {
+    "id": 85,
+    "name": "dodrio",
+    "all_types": [
+      "normal",
+      "flying"
+    ],
+    "main_type": "normal",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0155edd0"
+  },
+  "86": {
+    "id": 86,
+    "name": "seel",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0156edd0"
+  },
+  "87": {
+    "id": 87,
+    "name": "dewgong",
+    "all_types": [
+      "water",
+      "ice"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0157edd0"
+  },
+  "88": {
+    "id": 88,
+    "name": "grimer",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0158edd0"
+  },
+  "89": {
+    "id": 89,
+    "name": "muk",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0159edd0"
+  },
+  "90": {
+    "id": 90,
+    "name": "shellder",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "015aedd0"
+  },
+  "91": {
+    "id": 91,
+    "name": "cloyster",
+    "all_types": [
+      "water",
+      "ice"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "015bedd0"
+  },
+  "92": {
+    "id": 92,
+    "name": "gastly",
+    "all_types": [
+      "ghost",
+      "poison"
+    ],
+    "main_type": "ghost",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 2,
+    "cheat_code": "015cedd0"
+  },
+  "93": {
+    "id": 93,
+    "name": "haunter",
+    "all_types": [
+      "ghost",
+      "poison"
+    ],
+    "main_type": "ghost",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "015dedd0"
+  },
+  "94": {
+    "id": 94,
+    "name": "gengar",
+    "all_types": [
+      "ghost",
+      "poison"
+    ],
+    "main_type": "ghost",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "015eedd0"
+  },
+  "95": {
+    "id": 95,
+    "name": "onix",
+    "all_types": [
+      "rock",
+      "ground"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 3,
+    "cheat_code": "015fedd0"
+  },
+  "96": {
+    "id": 96,
+    "name": "drowzee",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0160edd0"
+  },
+  "97": {
+    "id": 97,
+    "name": "hypno",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0161edd0"
+  },
+  "98": {
+    "id": 98,
+    "name": "krabby",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0162edd0"
+  },
+  "99": {
+    "id": 99,
+    "name": "kingler",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0163edd0"
+  },
+  "100": {
+    "id": 100,
+    "name": "voltorb",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0164edd0"
+  },
+  "101": {
+    "id": 101,
+    "name": "electrode",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0165edd0"
+  },
+  "102": {
+    "id": 102,
+    "name": "exeggcute",
+    "all_types": [
+      "grass",
+      "psychic"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0166edd0"
+  },
+  "103": {
+    "id": 103,
+    "name": "exeggutor",
+    "all_types": [
+      "grass",
+      "psychic"
+    ],
+    "main_type": "grass",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0167edd0"
+  },
+  "104": {
+    "id": 104,
+    "name": "cubone",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0168edd0"
+  },
+  "105": {
+    "id": 105,
+    "name": "marowak",
+    "all_types": [
+      "ground"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0169edd0"
+  },
+  "106": {
+    "id": 106,
+    "name": "hitmonlee",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "016aedd0"
+  },
+  "107": {
+    "id": 107,
+    "name": "hitmonchan",
+    "all_types": [
+      "fighting"
+    ],
+    "main_type": "fighting",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "016bedd0"
+  },
+  "108": {
+    "id": 108,
+    "name": "lickitung",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "016cedd0"
+  },
+  "109": {
+    "id": 109,
+    "name": "koffing",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "016dedd0"
+  },
+  "110": {
+    "id": 110,
+    "name": "weezing",
+    "all_types": [
+      "poison"
+    ],
+    "main_type": "poison",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "016eedd0"
+  },
+  "111": {
+    "id": 111,
+    "name": "rhyhorn",
+    "all_types": [
+      "ground",
+      "rock"
+    ],
+    "main_type": "ground",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "016fedd0"
+  },
+  "112": {
+    "id": 112,
+    "name": "rhydon",
+    "all_types": [
+      "ground",
+      "rock"
+    ],
+    "main_type": "ground",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0170edd0"
+  },
+  "113": {
+    "id": 113,
+    "name": "chansey",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0171edd0"
+  },
+  "114": {
+    "id": 114,
+    "name": "tangela",
+    "all_types": [
+      "grass"
+    ],
+    "main_type": "grass",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0172edd0"
+  },
+  "115": {
+    "id": 115,
+    "name": "kangaskhan",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0173edd0"
+  },
+  "116": {
+    "id": 116,
+    "name": "horsea",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0174edd0"
+  },
+  "117": {
+    "id": 117,
+    "name": "seadra",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0175edd0"
+  },
+  "118": {
+    "id": 118,
+    "name": "goldeen",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0176edd0"
+  },
+  "119": {
+    "id": 119,
+    "name": "seaking",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0177edd0"
+  },
+  "120": {
+    "id": 120,
+    "name": "staryu",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0178edd0"
+  },
+  "121": {
+    "id": 121,
+    "name": "starmie",
+    "all_types": [
+      "water",
+      "psychic"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0179edd0"
+  },
+  "122": {
+    "id": 122,
+    "name": "mr-mime",
+    "all_types": [
+      "psychic",
+      "fairy"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "017aedd0"
+  },
+  "123": {
+    "id": 123,
+    "name": "scyther",
+    "all_types": [
+      "bug",
+      "flying"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 3,
+    "cheat_code": "017bedd0"
+  },
+  "124": {
+    "id": 124,
+    "name": "jynx",
+    "all_types": [
+      "ice",
+      "psychic"
+    ],
+    "main_type": "ice",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "017cedd0"
+  },
+  "125": {
+    "id": 125,
+    "name": "electabuzz",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "017dedd0"
+  },
+  "126": {
+    "id": 126,
+    "name": "magmar",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "017eedd0"
+  },
+  "127": {
+    "id": 127,
+    "name": "pinsir",
+    "all_types": [
+      "bug"
+    ],
+    "main_type": "bug",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 3,
+    "cheat_code": "017fedd0"
+  },
+  "128": {
+    "id": 128,
+    "name": "tauros",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0180edd0"
+  },
+  "129": {
+    "id": 129,
+    "name": "magikarp",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": true,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0181edd0"
+  },
+  "130": {
+    "id": 130,
+    "name": "gyarados",
+    "all_types": [
+      "water",
+      "flying"
+    ],
+    "main_type": "water",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0182edd0"
+  },
+  "131": {
+    "id": 131,
+    "name": "lapras",
+    "all_types": [
+      "water",
+      "ice"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0183edd0"
+  },
+  "132": {
+    "id": 132,
+    "name": "ditto",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0184edd0"
+  },
+  "133": {
+    "id": 133,
+    "name": "eevee",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0185edd0"
+  },
+  "134": {
+    "id": 134,
+    "name": "vaporeon",
+    "all_types": [
+      "water"
+    ],
+    "main_type": "water",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0186edd0"
+  },
+  "135": {
+    "id": 135,
+    "name": "jolteon",
+    "all_types": [
+      "electric"
+    ],
+    "main_type": "electric",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0187edd0"
+  },
+  "136": {
+    "id": 136,
+    "name": "flareon",
+    "all_types": [
+      "fire"
+    ],
+    "main_type": "fire",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0188edd0"
+  },
+  "137": {
+    "id": 137,
+    "name": "porygon",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": true,
+    "start_value": 1,
+    "cheat_code": "0189edd0"
+  },
+  "138": {
+    "id": 138,
+    "name": "omanyte",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "018aedd0"
+  },
+  "139": {
+    "id": 139,
+    "name": "omastar",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "018bedd0"
+  },
+  "140": {
+    "id": 140,
+    "name": "kabuto",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "018cedd0"
+  },
+  "141": {
+    "id": 141,
+    "name": "kabutops",
+    "all_types": [
+      "rock",
+      "water"
+    ],
+    "main_type": "rock",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "018dedd0"
+  },
+  "142": {
+    "id": 142,
+    "name": "aerodactyl",
+    "all_types": [
+      "rock",
+      "flying"
+    ],
+    "main_type": "rock",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "018eedd0"
+  },
+  "143": {
+    "id": 143,
+    "name": "snorlax",
+    "all_types": [
+      "normal"
+    ],
+    "main_type": "normal",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "018fedd0"
+  },
+  "144": {
+    "id": 144,
+    "name": "articuno",
+    "all_types": [
+      "ice",
+      "flying"
+    ],
+    "main_type": "ice",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0190edd0"
+  },
+  "145": {
+    "id": 145,
+    "name": "zapdos",
+    "all_types": [
+      "electric",
+      "flying"
+    ],
+    "main_type": "electric",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0191edd0"
+  },
+  "146": {
+    "id": 146,
+    "name": "moltres",
+    "all_types": [
+      "fire",
+      "flying"
+    ],
+    "main_type": "fire",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0192edd0"
+  },
+  "147": {
+    "id": 147,
+    "name": "dratini",
+    "all_types": [
+      "dragon"
+    ],
+    "main_type": "dragon",
+    "evolution": false,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0193edd0"
+  },
+  "148": {
+    "id": 148,
+    "name": "dragonair",
+    "all_types": [
+      "dragon"
+    ],
+    "main_type": "dragon",
+    "evolution": true,
+    "common": false,
+    "legendary": false,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0194edd0"
+  },
+  "149": {
+    "id": 149,
+    "name": "dragonite",
+    "all_types": [
+      "dragon",
+      "flying"
+    ],
+    "main_type": "dragon",
+    "evolution": true,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0195edd0"
+  },
+  "150": {
+    "id": 150,
+    "name": "mewtwo",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0196edd0"
+  },
+  "151": {
+    "id": 151,
+    "name": "mew",
+    "all_types": [
+      "psychic"
+    ],
+    "main_type": "psychic",
+    "evolution": false,
+    "common": false,
+    "legendary": true,
+    "suit_for_start": false,
+    "start_value": null,
+    "cheat_code": "0197edd0"
+  }
+}
